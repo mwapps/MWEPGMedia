@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MW EPG Media</string>
+
+    <!-- String for fragment_program_details -->
+    <string name="program_title">Program title</string>
+    <string name="program_desacription">Program description</string>
+    <string name="program_bto_play">Play</string>
+    <string name="program_bto_return">Cancel</string>
 </resources>
